@@ -1,0 +1,45 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+.column{
+width: 100% !important;
+display: flex !important;
+flex-wrap: wrap !important;
+justify-content: space-between !important;
+
+margin-top: 6rem !;
+}
+.columntop{
+  width: 100% !important;
+display: flex !important;
+flex-wrap: wrap !important;
+justify-content: space-around !important;
+}
+.button{
+  margin-top: 4rem;
+}
+/* .innerdiv{
+
+}
+.outerdiv{
+  height: 4rem;
+  background-color: aqua;
+  margin-top: 5rem;
+} */
+.item-container{
+  width: 250px;
+  margin: 10px;
+}
+.bag-item{
+  display: inline-block;
+  width: 64%;
+  padding-right: 20px;
+  padding-top: 32px;
+  font-size: 13px;
+  line-height: 1.4287143;
+  margin: 10px;
+}
+
